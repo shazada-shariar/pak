@@ -1,6 +1,7 @@
 # pakistan fb clone
 Careted by Sultan Shariar
-#دستورات
+
+# دستورات
 ______________________________________________________
 * git clone https://github.com/shazada-shariar/pak
 
